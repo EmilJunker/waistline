@@ -89,7 +89,7 @@
     "camera-problem": "Det gick inte att komma åt din kamera.",
     "no-internet": "Ingen Internetanslutning",
     "no-results": "Inga matchande resultat",
-    "no-response": "No response from server",
+    "no-response": "Inget svar från servern",
     "no-search-providers": "Inga sökleverantörer är aktiverade",
     "scan-failed": "Skanningen misslyckades",
     "search": "Sök",
@@ -326,7 +326,7 @@
       "y-zero": "Starta Y-axeln på noll",
       "average-line": "Visa linje för medelvärde",
       "goal-line": "Visa linje för målsättning",
-      "trend-line": "Show Trend Line"
+      "trend-line": "Visa trendlinje"
     },
     "developer": {
       "title": "Utvecklare",
@@ -338,12 +338,12 @@
     },
     "text-to-speech": {
       "title": "Text till tal",
-      "test": "Test current settings",
-      "speed": "Speed",
+      "test": "Testa nuvarande inställningar",
+      "speed": "Hastighet",
       "pitch": "Röstens tonhöjd",
       "voice": "Röst",
       "default": "Standard",
-      "locale": "Number formatting locale (optional)"
+      "locale": "Nummerformatering (valfri)"
     },
     "import-export": {
       "title": "Importera/Exportera",
@@ -394,7 +394,7 @@
       "import-foods-category-fail": "Välj minst en kategori",
       "import-success-title": "Säkerhetskopian har återställts",
       "import-success-message": "Importering slutförd",
-      "barcode-flashlight": "Barcode Scan Flashlight",
+      "barcode-flashlight": "Ficklampa vid streckkodsskanning",
       "barcode-sound": "Ljudsignal vid streckkodsskanning",
       "edit-images": "Beskär bilder",
       "login-success": "Inloggningen lyckades"
