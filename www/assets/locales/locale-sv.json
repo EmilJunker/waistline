@@ -51,7 +51,7 @@
   },
   "nutriments-abbreviations": {
     "fat": "F",
-    "carbohydrates": "C",
+    "carbohydrates": "K",
     "proteins": "P"
   },
   "unit-symbols": {
@@ -101,8 +101,8 @@
     "upload-add-to-foodlist": "Vill du lägga till det uppladdade objektet i din lista över livsmedel?",
     "upload-failed": "Tyvärr misslyckades uppladdningen. Var vänlig försök igen eller kontakta utvecklaren.",
     "what-meal": "Vilken måltid är detta?",
-    "press-back-again-exit": "Press Back again to exit the app",
-    "press-back-again-editor": "Press Back again to leave the editor"
+    "press-back-again-exit": "Backa igen för att stänga appen",
+    "press-back-again-editor": "Backa igen för att sluta redigera"
   },
   "days": {
     "0": "Söndag",
@@ -141,7 +141,7 @@
     "hips": "Höfter",
     "body fat": "Kroppsfett",
     "average": "Medelvärde",
-    "trend": "Daily Trend"
+    "trend": "Daglig trend"
   },
   "diary": {
     "title": "Dagbok",
@@ -196,8 +196,8 @@
     "per-serving": "Per portion",
     "image": "Bild",
     "name-and-brand": "Namn och varumärke",
-    "nutriments-per-serving": "Nutrients per serving",
-    "nutriments-per-100": "Nutrients per 100g/100ml",
+    "nutriments-per-serving": "Näringsämnen per portion",
+    "nutriments-per-100": "Näringsämnen per 100g/100ml",
     "additional-photos": "Fler bilder",
     "ingredients": "Ingredienslista",
     "packaging": "Återvinningsinstruktioner / förpackningsinformation",
@@ -270,7 +270,7 @@
       "show-units": "Visa enheter för näringsämnen",
       "prompt-add-items": "Fråga efter kvantitet vid nytt inlägg",
       "show-macro-nutriments-summary": "Show macros summary per category",
-      "show-total-portion-size": "Show Total Portion Size"
+      "show-total-portion-size": "Visa total portionsstorlek"
     },
     "nutriments": {
       "title": "Näringsämnen",
@@ -312,7 +312,7 @@
       "images": "Visa bilder på livsmedel",
       "wifi-images": "Visa bilder på livsmedel endast över Wi-Fi",
       "show-notes": "Visa anteckningar om livsmedel",
-      "add-leftovers": "Show past day's meals of all categories"
+      "add-leftovers": "Visa föregående dags måltider från alla kategorier"
     },
     "foods-categories": {
       "title": "Etiketter och kategorier",
