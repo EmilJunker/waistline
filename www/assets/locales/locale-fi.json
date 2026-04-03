@@ -3,17 +3,17 @@
     "kilojoules": "Kilojouleja",
     "calories": "Kaloreita",
     "fat": "Rasva",
-    "saturated-fat": "Sat Fat",
+    "saturated-fat": "Tyydyttynyt rasva",
     "carbohydrates": "Hiilihydraatit",
     "sugars": "Sokeri",
     "fiber": "Ravintokuitu",
-    "proteins": "Protein",
+    "proteins": "Proteiini",
     "salt": "Suola",
     "sodium": "Natrium",
     "cholesterol": "Kolesteroli",
-    "trans-fat": "Trans Fat",
-    "monounsaturated-fat": "Monounsat Fat",
-    "polyunsaturated-fat": "Polyunsat Fat",
+    "trans-fat": "Transrasva",
+    "monounsaturated-fat": "Kertatyydyttymätön rasvahappo",
+    "polyunsaturated-fat": "Monityydyttymätön rasvahappo",
     "omega-3-fat": "Omega-3 Fat",
     "omega-6-fat": "Omega-6 Fat",
     "omega-9-fat": "Omega-9 Fat",
@@ -50,8 +50,8 @@
     "lactose": "Laktoosi"
   },
   "nutriments-abbreviations": {
-    "fat": "F",
-    "carbohydrates": "C",
+    "fat": "R",
+    "carbohydrates": "H",
     "proteins": "P"
   },
   "unit-symbols": {
@@ -198,7 +198,7 @@
     "name-and-brand": "Name and Brand",
     "nutriments-per-serving": "Nutrients per serving",
     "nutriments-per-100": "Nutrients per 100g/100ml",
-    "additional-photos": "Additional Photos",
+    "additional-photos": "Enemmän kuvia",
     "ingredients": "Ingredients list",
     "packaging": "Recycling instructions / packaging information",
     "edit-food": "Muokkaa ruokaa",
@@ -209,7 +209,7 @@
   },
   "goals": {
     "title": "Tavoitteet",
-    "your-goals": "Your Goals",
+    "your-goals": "Sinun tavoitteesi",
     "all-fields": "All Fields"
   },
   "goal-editor": {
@@ -222,7 +222,7 @@
     "minimum-goal": "On vähimmäistavoite",
     "percent-goal": "Tavoite prosentteina energian saannista",
     "effective-from": "Effective from",
-    "new-goal": "New Goal",
+    "new-goal": "Uusi tavoite",
     "delete-goal": "Poista tavoite",
     "goal-deleted": "Tavoite poistettu"
   },
