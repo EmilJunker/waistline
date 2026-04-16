@@ -365,6 +365,13 @@
       "off-account": "Konto Open Food Facts",
       "language": "Preferowany język",
       "country": "Wyszukaj Kraj",
+      "dietary-filter": "Dietary Filter",
+      "dietary-filter-none": "No filter",
+      "dietary-filter-vegan": "Vegan",
+      "dietary-filter-vegetarian": "Vegetarian",
+      "dietary-filter-gluten-free": "Gluten Free",
+      "dietary-filter-palm-oil-free": "Palm Oil Free",
+      "dietary-filter-organic": "Organic",
       "upload-country": "Kraj wysłania",
       "all-countries": "Wszystkie",
       "default": "Domyślne",
@@ -431,3 +438,4 @@
     "ukrainian": "Ukraiński"
   }
 }
+
