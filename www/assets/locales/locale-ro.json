@@ -365,6 +365,13 @@
       "off-account": "Cont Open Food Facts",
       "language": "Limba preferată",
       "country": "Caută țara",
+      "dietary-filter": "Dietary Filter",
+      "dietary-filter-none": "No filter",
+      "dietary-filter-vegan": "Vegan",
+      "dietary-filter-vegetarian": "Vegetarian",
+      "dietary-filter-gluten-free": "Gluten Free",
+      "dietary-filter-palm-oil-free": "Palm Oil Free",
+      "dietary-filter-organic": "Organic",
       "upload-country": "Țara de încărcare a datelor",
       "all-countries": "Toate",
       "default": "Implicit",
@@ -431,3 +438,4 @@
     "ukrainian": "Ucrainiană"
   }
 }
+
