@@ -365,6 +365,13 @@
       "off-account": "Účet Open Food Facts",
       "language": "Upřednostňovaný jazyk",
       "country": "Země vyhledávání",
+      "dietary-filter": "Dietary Filter",
+      "dietary-filter-none": "No filter",
+      "dietary-filter-vegan": "Vegan",
+      "dietary-filter-vegetarian": "Vegetarian",
+      "dietary-filter-gluten-free": "Gluten Free",
+      "dietary-filter-palm-oil-free": "Palm Oil Free",
+      "dietary-filter-organic": "Organic",
       "upload-country": "Země nahrávání",
       "all-countries": "Všechny",
       "default": "Výchozí",
@@ -431,3 +438,4 @@
     "ukrainian": "Ukrajinština"
   }
 }
+
